@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a student passionate about Software Development and Data Analysis. I love learning new things and sharing knowledge with others.
+I am a fresh graduate passionate about Software Development and Data Analysis. I love learning new things and sharing knowledge with others.
 
 ## Contact
 
